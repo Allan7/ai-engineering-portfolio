@@ -7,4 +7,4 @@ AI is used throughout this portfolio as a learning and development aid.
 
 I use it to help define project requirements, explain unfamiliar concepts, review my code, identify problems, and provide direction when I get stuck.
 
-The core implementations are written by me. Where possible, I deliberately ask for guidance rather than complete solutions so that the projects demonstrate my own progression in Python, software development, and applied AI.
+The core implementations are written by me. Where possible, I deliberately use AI for guidance, explanation and review rather than complete solutions, so the projects demonstrate my own progression in Python, software development and applied AI.
